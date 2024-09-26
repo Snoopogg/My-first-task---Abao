@@ -1,0 +1,1 @@
+print("waaiitt a miinuutteee, whooo aree youu?")
